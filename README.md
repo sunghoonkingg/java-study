@@ -1,5 +1,5 @@
 # java-study
-자바 기초를 다시 정리하고 가는 스터디
+자바 기초를 다시 정리하고 가는 스터디<br>
 https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed
 
 <hr>
